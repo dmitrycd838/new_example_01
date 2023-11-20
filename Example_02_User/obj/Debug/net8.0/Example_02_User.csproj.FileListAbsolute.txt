@@ -1,0 +1,15 @@
+C:\Introduction\Example_02_User\bin\Debug\net8.0\Example_02_User.exe
+C:\Introduction\Example_02_User\bin\Debug\net8.0\Example_02_User.deps.json
+C:\Introduction\Example_02_User\bin\Debug\net8.0\Example_02_User.runtimeconfig.json
+C:\Introduction\Example_02_User\bin\Debug\net8.0\Example_02_User.dll
+C:\Introduction\Example_02_User\bin\Debug\net8.0\Example_02_User.pdb
+C:\Introduction\Example_02_User\obj\Debug\net8.0\Example_02_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Introduction\Example_02_User\obj\Debug\net8.0\Example_02_User.AssemblyInfoInputs.cache
+C:\Introduction\Example_02_User\obj\Debug\net8.0\Example_02_User.AssemblyInfo.cs
+C:\Introduction\Example_02_User\obj\Debug\net8.0\Example_02_User.csproj.CoreCompileInputs.cache
+C:\Introduction\Example_02_User\obj\Debug\net8.0\Example_02_User.sourcelink.json
+C:\Introduction\Example_02_User\obj\Debug\net8.0\Example_02_User.dll
+C:\Introduction\Example_02_User\obj\Debug\net8.0\refint\Example_02_User.dll
+C:\Introduction\Example_02_User\obj\Debug\net8.0\Example_02_User.pdb
+C:\Introduction\Example_02_User\obj\Debug\net8.0\Example_02_User.genruntimeconfig.cache
+C:\Introduction\Example_02_User\obj\Debug\net8.0\ref\Example_02_User.dll
