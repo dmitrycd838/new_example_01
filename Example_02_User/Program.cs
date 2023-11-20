@@ -51,17 +51,20 @@
 // 12-> 2
 // 85 -> 8
 
-// int number = new Random().Next(10, 100); // [10, 100)
+int number = new Random().Next(10, 100); // [10, 100)
 
-// int leftDigit = number / 10;
-// int rightDigit = number % 10;
+int leftDigit = number / 10;
+int rightDigit = number % 10;
 
-// if (leftDigit > rightDigit)
-// {
-//     Console.Write($"{number} -> {leftDigit}");
-// }
-// else
-// {
-//     Console.Write($"{number} -> {rightDigit}");
-// }
-// Console.WriteLine();
+if (leftDigit > rightDigit)
+{
+    Console.Write($"{number} -> {leftDigit}");
+}
+else
+{
+    Console.Write($"{number} -> {rightDigit}");
+}
+Console.WriteLine();
+
+System.Console.WriteLine();
+
